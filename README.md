@@ -5,7 +5,7 @@
 Customer Chrun is a major challenge for almost every industry. Specially for Banks this has a negative impact as bank's customer are generally long term and it take time to build that relation ship .  Analysis of customer churn  and reducing it by adopting different strategies is one of top priority for the banks.  To Anlayze customer churn at bank have build 3 models 1. Based on Logistic regression 2. based on Neural Network 3. Based on Decision Tree.
 
 ## DATA
-Data used is from Kaggle ,https://www.kaggle.com/datasets/bhuviranga/customer-churn-data. data had 10000 record , this data has features like credit score, balance , country , estimated salary , vintage of customer , credit card relatioship  and outcome customer churned or not.
+Data used is from Kaggle ,https://www.kaggle.com/datasets/bhuviranga/customer-churn-data. data had 10000 record , its an open data source .this data has features like credit score, balance , country , estimated salary , vintage of customer , credit card relatioship  and outcome customer churned or not.
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
