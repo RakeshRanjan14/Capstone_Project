@@ -24,7 +24,7 @@ Model 2 - Neural Network based model with different epoch ,batch size , differen
 Model 3 - Decision Tree based model with different depth of default to 2 to 5 scored between 81-85.5%,  bigger depth like 5 may lead to overfitting so recommended Model2.
 
 Model 2 performance with different epoch
-
+![Screenshot](image.png)
 ￼
 
 ##  CONTACT DETAILS
