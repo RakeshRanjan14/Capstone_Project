@@ -5,7 +5,7 @@
 Customer Chrun is a major challenge for almost every industry. Specially for Banks this has a negative impact as bank's customer are generally long term and it take time to build that relation ship .  Analysis of customer churn  and reducing it by adopting different strategies is one of top priority for the banks.  To Anlayze customer churn at bank have build 3 models 1. Based on Logistic regression 2. based on Neural Network 3. Based on Decision Tree.
 
 ## DATA
-Data used is from Kaggle , data had more than 60000 record which reduced to 10000 , this data has features like credit score, balance , country , estimated salary , vintage of customer , credit card relatioship  and outcome customer churned or not.
+Data used is from Kaggle ,https://www.kaggle.com/datasets/bhuviranga/customer-churn-data. data has 10000 record , its an open data source .this data has features like credit score, balance , country , estimated salary , vintage of customer , credit card relatioship  and outcome customer churned or not.
 
 ## MODEL 
 A summary of the model you’re using and why you chose it. 
@@ -18,10 +18,14 @@ For Neural network Hyperparameter tuned were 1. Number of hidden layers, started
 
 ## RESULTS
 A summary of your results and what you can learn from your model 
+Model 1 which is based on Logistic regression scored- Score of logistic regression is 80.66%
+Model 2 - Neural Network based model with different epoch ,batch size , different hidden layer and nodes scored between 83-86%
+Model 3 - Decision Tree based model with different depth of default to 2 to 5 scored between 81-85.5%,  bigger depth like 5 may lead to overfitting so recommended Model2.
 
-You can include images of plots using the code below:
+Model 2 performance with different epoch
 ![Screenshot](image.png)
 
 ## (OPTIONAL: CONTACT DETAILS)
-If you are planning on making your github repo public you may wish to include some contact information such as a link to your twitter or an email address. 
+https://github.com/RakeshRanjan14/Capstone_Project.git
+Rakesh Ranjan -rakesh.ranjan@yahoo.com
 
