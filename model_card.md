@@ -66,8 +66,8 @@ Model 2 performance with different epoch
 ![Screenshot](image.png)
 ## Limitations
 
-Outline the limitations of your model.
+Perormance with larger data set like 1 Million or more record is not known ,increasing the hidden layer lead to decrease in performances so need to refine for larger data set as well
 
 ## Trade-offs
 
-Outline any trade-offs of your model, such as any circumstances where the model exhibits performance issues. 
+These lead to peformance issues so did this trade off .1. Number of hidden layers, started with 11-8-4-1 ( 1 input layer , 2 hidden layers and 1 output) but settled with 1 input-1 hidden-and 1 output.   2. Number of nodes in each layer started with 11-6-4-1 but turn out to be 11-8-1 performed better 3. Epoch and Batch Size , epoch tuned from 10 to 50 and batch size tuned from 20 to 10.
