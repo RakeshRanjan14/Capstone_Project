@@ -1,4 +1,4 @@
-# Model for customer churn at bank .
+# Models to analyse customer churn at a bank . Created 3 ML Models and comparison done and recommended better model.  .
 
 
 ## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
