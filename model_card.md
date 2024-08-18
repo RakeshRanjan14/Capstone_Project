@@ -57,9 +57,13 @@ Model
 
 ## Performance
 
+A summary of your results and what you can learn from your model 
+Model 1 which is based on Logistic regression scored- Score of logistic regression is 80.66%
+Model 2 - Neural Network based model with different epoch ,batch size , different hidden layer and nodes scored between 83-86%
+Model 3 - Decision Tree based model with different depth of default to 2 to 5 scored between 81-85.5%,  bigger depth like 5 may lead to overfitting so recommended Model2.
 
-Give a summary graph or metrics of how the model performs. Remember to include how you are measuring the performance and what data you analysed it on. 
-
+Model 2 performance with different epoch
+![Screenshot](image.png)
 ## Limitations
 
 Outline the limitations of your model.
